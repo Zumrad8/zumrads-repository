@@ -1,3 +1,5 @@
 # zumrads-repository
 
-add name
+- arman-hakobyan
+- Paul Taach
+
